@@ -11,4 +11,4 @@ https://my.telegram.org/auth
 
 
 
-**·Finally**, edit the usernames and run th code.
+**·Finally**, edit the usernames and run the code.
